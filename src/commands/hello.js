@@ -8,7 +8,7 @@ class HelloCommand extends Command {
   }
 }
 
-HelloCommand.description = `Describe the command here
+HelloCommand.description = `Let's say hello to you
 ...
 Extra documentation goes here
 `
